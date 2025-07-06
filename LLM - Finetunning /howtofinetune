@@ -40,7 +40,7 @@ model = FastLanguageModel.get_peft_model(
   r=16,
   lora_alpha=16,
   target_modules=[...],
-  use_gradient_checkpointing="unsloth",
+  use_gradient_checkpointing="unslo
 )
 This wraps the base model with LoRA adapters and configures gradient checkpointing 
 
