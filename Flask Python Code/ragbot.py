@@ -50,4 +50,4 @@ def api_ask():
         answer = rag_chain.invoke(question)
         return jsonify({'answer': answer})
     except Exception as e:
-        return jsonify({'error': str(e)}),500
+        return jsonify({'error': str(e)}),
