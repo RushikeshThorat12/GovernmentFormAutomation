@@ -7,10 +7,6 @@ https://github.com/user-attachments/assets/59cf1d96-f589-4ecd-b8dd-beab8fe35a4c
 
 *Automatically detect, extract, validate, and fill out any government form—Aadhaar, PAN, etc.—with just a few clicks.*
 
-![WhatsApp Image 2025-07-06 at 17 54 36_097bfa5f](https://github.com/user-attachments/assets/ba1ce500-6597-454a-b698-c9770d315606)
-![WhatsApp Image 2025-07-06 at 17 56 13_49c73c61](https://github.com/user-attachments/assets/12fc9b79-01aa-449b-8a61-2482e96640f7)
-
-
 ## Problem Statement
 > INdian citizens spends 300 rupees even for  small adhar updates and routine updates  up to ₹1,500 under schemes like Ladki Bahin Yojana—driven by agent mark‑ups.  
 > Complex, multi‑page government forms with unfamiliar fields deter even experienced users and breed confusion.  
@@ -28,7 +24,13 @@ https://github.com/user-attachments/assets/59cf1d96-f589-4ecd-b8dd-beab8fe35a4c
 - **User Authentication** with sign‑up / login flows  
 - **MongoDB Storage** for submitted form data  
 
----
+
+![WhatsApp Image 2025-07-06 at 17 54 36_097bfa5f](https://github.com/user-attachments/assets/ba1ce500-6597-454a-b698-c9770d315606)
+![image](https://github.com/user-attachments/assets/96c0e172-88b1-4dc8-a143-bebd78c9b11c)
+![image](https://github.com/user-attachments/assets/8f1062e4-3186-4690-8021-72270e80dc53)
+![image](https://github.com/user-attachments/assets/3614f301-9906-4b04-88d4-85067f881f7e)
+
+
 
 ## Tech Stack
 - **Backend:** Flask  
