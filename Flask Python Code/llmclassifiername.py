@@ -25,4 +25,5 @@ def classify_name(name: str) -> str:
     except Exception as e:
         logging.error(f"[classifier] error calling Ollama: {e}")
         # return empty so frontend sees no "Y" and button stays disabled
-        return ""
+        return "" 
+     #
