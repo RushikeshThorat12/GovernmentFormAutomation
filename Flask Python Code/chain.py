@@ -84,10 +84,10 @@ def build_rag_chain(pdf_path: str = "static/gov.pdf"):
     )
 
     return rag_chain
-
+.
 
 # Build RAG chain once
-rag_chain = build_rag_chain()
+rag_chain = build_rag_chain()   
 
 
 def rag_query(question: str) -> str:
