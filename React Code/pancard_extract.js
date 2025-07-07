@@ -253,4 +253,4 @@ export default function ExtractPanCard({ formData, setFormData }) {
       )}
     </div>
   );
-}
+}//
