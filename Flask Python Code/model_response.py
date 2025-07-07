@@ -10,3 +10,4 @@ _model = ChatOllama(
 def get_model_response(prompt: str) -> str:
     """Invoke the standalone LLM with the given prompt (no RAG)."""
     return _model.invoke(prompt)
+    # 
