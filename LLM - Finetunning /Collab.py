@@ -126,4 +126,4 @@ trainer.push_to_hub()
 2. Place your custom `train.jsonl` and `valid.jsonl` files in your Drive, or adjust paths.
 3. Ensure your JSONL files have `prompt` and `completion` fields (or adapt preprocessing).
 4. Run each cell sequentially in Colab.  
-5. Monitor training logs, and your fine-tuned model will be pushed to Hugging Face Hub under `YOUR_HF_USERNAME/llama3-custom`.
+5. Monitor training logs, and your fine-tuned model will be pushed to Hugging Face Hub under `YOUR_HF_USERNAME/llama3-custom`. #
