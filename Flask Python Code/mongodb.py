@@ -13,3 +13,4 @@ coll = db[COLL_NAME]
 def save_submission(data: dict) -> str:
     result = coll.insert_one(data)
     return str(result.inserted_id)
+#
