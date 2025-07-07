@@ -37,4 +37,6 @@ def extract_marksheet_data(flask_file) -> dict:
         try:
             os.unlink(tmp.name)
         except OSError:
-            pass
+          pass
+
+    # 
